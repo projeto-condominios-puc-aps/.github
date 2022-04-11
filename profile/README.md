@@ -2,6 +2,8 @@
 
 ### Análise e Projeto de Sistemas APS PUC-Rio
 
+Ana Maria Araujo da Silva, André de Araujo Sholl e Mauro Robson de Araujo
+
 <!--
 
 **Here are some ideas to get you started:**
